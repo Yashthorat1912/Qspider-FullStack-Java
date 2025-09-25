@@ -1,0 +1,36 @@
+/* Universal Selector */
+*{
+  background-color: aqua;
+}
+/* Id Selector */
+#Box1{
+  background-color: green;
+}
+#Box2{
+  background-color: black;
+}
+#Box3{
+  background-color: yellow;
+}
+/* Class Selector */
+.greenbox{
+  background-color: green;
+}
+.redbox{
+  background-color: red;
+}
+/* Grouping Selector */
+#Box1,#Box2,#Box3{
+  height: 100px;
+  width: 100px;
+}
+.greenbox ,.redbox{
+  height: 200px;
+  width: 200px;
+}
+/* Tag Selector */
+p{
+  background-color: aliceblue;
+  height: 300px;
+  width: 300px;
+}
