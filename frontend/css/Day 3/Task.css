@@ -1,0 +1,31 @@
+
+#c1,#c3{
+  height: 300px;
+  width: 90%;
+  display: flex;
+  align-items: top;
+  justify-content: space-between;
+}
+#c2{
+  height: 300px;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.b1{
+  height: 300px;
+  width: 300px;
+  background-color: green;
+}
+
+.b2{
+  height: 300px;
+  width: 300px;
+  background-color: red;
+}
+.b3{
+  height: 300px;
+  width: 300px;
+  background-color: yellow;
+}

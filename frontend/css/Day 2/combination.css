@@ -1,0 +1,17 @@
+/* Decendant selector */
+/* section h1{
+  background-color: aqua;
+} */
+ /* child selector */
+ section>h1{
+  background-color: red;
+ }
+ /* adjacent sibling */
+ /* section+p{
+  background-color: red;
+ } */
+
+ /* General sibling */
+ section~p{
+  background-color: violet;
+ }

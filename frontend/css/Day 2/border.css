@@ -1,0 +1,23 @@
+div{
+  height: 400px;
+  width: 400px;
+  border: 10px solid red;
+  border-radius: 10px;
+  border-top: none;
+}
+#box{
+  height: 400px;
+  width: 400px;
+  overflow: auto;
+  border: 5px solid black;
+}
+#box::-webkit-scrollbar{
+  width: 10px;
+}
+#box::-webkit-scrollbar-thumb{
+  background-color: red;
+  border-radius: 20px;
+}
+#box::-webkit-scrollbar-track{
+  background-color: green;
+}

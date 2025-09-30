@@ -1,0 +1,6 @@
+section{
+  display: none;
+}
+h1:hover+section{
+  display: block;
+}

@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+  color: red;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness:5px ;
+  text-transform: uppercase;
+}
+
+p{
+  line-height: 30px;
+  word-spacing: 20px;
+  text-shadow: 10px 10px 5px green;
+}
+
+div{
+  background-color: aqua; 
+  height: 300px;
+  width: 300px;
+  transition-duration: 2s;
+}
+div:hover {
+  box-shadow: 10px 10px 10px black;
+  height: 300px;
+  width: 300px;
+}
