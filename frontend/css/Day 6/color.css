@@ -1,0 +1,10 @@
+div{
+  height: 300px;
+  width: 300px;
+  background-color: rgb(35, 255, 6);
+  opacity: 0.5;
+}
+
+img{
+  opacity: 0.3;
+}
