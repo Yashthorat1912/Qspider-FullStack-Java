@@ -1,0 +1,32 @@
+#box{
+  height: 300px;
+  width: 300px;
+  background-color: black;
+}
+#box:hover{
+  height: 400px;
+  width: 400px;
+  background-color: red;
+}
+#container{
+  height: 800px;
+  width: 100%;
+  border: 2px solid red;
+}
+div{
+  height: 100px;
+  width: 100%;
+  background-color: green;
+}
+div:first-child{
+  background-color: yellow;
+}
+div:last-child{
+  background-color: blue;
+}
+div:nth-child(even){
+  background-color: orange;
+}
+div:nth-child(odd){
+  background-color: pink;
+}
