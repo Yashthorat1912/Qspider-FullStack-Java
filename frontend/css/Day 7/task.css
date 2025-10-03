@@ -1,0 +1,57 @@
+section{
+  height: 700px;
+  width: 100%;
+  border: 2px solid black;
+}
+#card1{
+  height: 200px;
+  width: 150px;
+  position: absolute;
+  top: 150px;
+  left: 600px;
+}
+#card2{
+  height: 200px;
+  width: 150px;
+  position: absolute;
+  top: 250px;
+  left: 500px;
+}
+#card3{
+  height: 200px;
+  width: 150px;
+  position: absolute;
+  top: 350px;
+  left: 400px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+#card4{
+  height: 200px;
+  width: 150px;
+  position: absolute;
+  top: 450px;
+  left: 300px;
+
+}
+#card5{
+  height: 200px;
+  width: 150px;
+  position: absolute;
+  top: 250px;
+  left: 700px;
+}
+#card6{
+  height: 200px;
+  width: 150px;
+  position: absolute;
+  top: 350px;
+  left: 800px;
+}
+#card7{
+  height: 200px;
+  width: 150px;
+  position: absolute;
+  top: 450px;
+  left: 900px;
+}
